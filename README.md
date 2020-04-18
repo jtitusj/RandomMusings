@@ -1,6 +1,7 @@
-# Machine Learning Pipeline
+# RandomMusings
 
-A collection of templates for performing machine learning tasks.
+A collection of random ideas with no particular purpose aside from exercising my
+skills.
 
 ## Installing the Environment
 To install the environment, type the following in the terminal:
