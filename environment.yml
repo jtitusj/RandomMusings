@@ -1,4 +1,4 @@
-name: mlpipeline
+name: Generic
 channels:
     - conda-forge
     - defaults
