@@ -17,5 +17,7 @@ dependencies:
     - scikit-learn
     - jupyter
     - jupyter_contrib_nbextensions
+    - autopep8
     - pip:
       - schedule
+      - pyttsx3
