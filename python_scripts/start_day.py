@@ -23,4 +23,7 @@ def daily_habit(meditate_mins=10):
     engine.runAndWait()
     
 if __name__ == '__main__':
-    daily_habit()
+    schedule.every().day.at("10:00").do(daily_habit)
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
